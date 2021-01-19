@@ -4,5 +4,5 @@
     <dimen name="AcConstraintLayoutButtonHeight">45dp</dimen>
     <dimen name="AcConstraintLayoutTextViewWidth">360dp</dimen>
     <dimen name="AcConstraintLayoutTextViewHeight">182dp</dimen>
-    <dimen name="AcConstraintLayoutButtonHeight_bt_0">172dp</dimen>
+    <dimen name="textView_textSize_print_result">60sp</dimen>
 </resources>
