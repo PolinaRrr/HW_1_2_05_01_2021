@@ -13,4 +13,11 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="CalculatorStyleNight" parent="CalculatorStyle">
+        <!--        <item name="colorPrimaryDark">@color/medium_deep_shade_of_blue</item>-->
+        <!--        <item name="colorPrimaryVariant">@color/medium_dark_blue</item>-->
+        <!--        <item name="colorOnPrimary">@color/light_shade_of_blue</item>-->
+        <!--        <item name="background">@drawable/texture_background_night</item>-->
+    </style>
 </resources>
