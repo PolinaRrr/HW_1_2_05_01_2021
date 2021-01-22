@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CalculatorStyle" parent="Theme.HW_1_2_05_01_2021">
+        <item name="colorPrimary">@color/dark_shade_of_orange</item>
+        <item name="android:colorPrimaryDark">@color/medium_deep_shade_of_blue</item>
+        <item name="colorPrimaryVariant">@color/emerald_ochre</item>
+        <item name="colorOnPrimary">@color/light_shade_of_orange</item>
+        <item name="background">@drawable/texture_background_960_720</item>
+
+    </style>
+</resources>
