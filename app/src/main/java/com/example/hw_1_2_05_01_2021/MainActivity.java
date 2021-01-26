@@ -8,14 +8,21 @@
 package com.example.hw_1_2_05_01_2021;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatDelegate;
 
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
+
 public class MainActivity extends AppCompatActivity {
     private CalculatorLogic calculator;
     private TextView text;
+
+    static {
+        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_FOLLOW_SYSTEM);
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -86,7 +93,6 @@ public class MainActivity extends AppCompatActivity {
         for (int i = 0; i < actionIds.length; i++) {
             findViewById(actionIds[i]).setOnClickListener(actionButtonClickListener);
         }
-
 
 
     }

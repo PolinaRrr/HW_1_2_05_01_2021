@@ -1,23 +1,23 @@
 <resources>
-    <string name="app_name">HW_1_2_05_01_2021</string>
-    <string name="textView_print_result">0</string>
-    <string name="button_reset">C</string>
-    <string name="button_negative_value">-/+</string>
-    <string name="button_percent">%</string>
-    <string name="button_division">/</string>
-    <string name="button_bt_7">7</string>
-    <string name="button_bt_8">8</string>
-    <string name="button_bt_9">9</string>
-    <string name="button_multiplication">*</string>
-    <string name="button_bt_4">4</string>
-    <string name="button_bt_5">5</string>
-    <string name="button_bt_6">6</string>
-    <string name="button_subtracting">-</string>
-    <string name="button_addition">+</string>
-    <string name="button_bt_3">3</string>
-    <string name="button_bt_2">2</string>
-    <string name="button_bt_1">1</string>
-    <string name="button_result">=</string>
-    <string name="button_separator">.</string>
-    <string name="button_bt_0">0</string>
+    <string name="app_name" translatable="true">Simple Calculator</string>
+    <string name="textView_print_result" translatable="false">0</string>
+    <string name="button_reset" translatable="false">C</string>
+    <string name="button_negative_value" translatable="false">-/+</string>
+    <string name="button_percent" translatable="false">%</string>
+    <string name="button_division" translatable="false">/</string>
+    <string name="button_bt_7" translatable="false">7</string>
+    <string name="button_bt_8" translatable="false">8</string>
+    <string name="button_bt_9" translatable="false">9</string>
+    <string name="button_multiplication" translatable="false">*</string>
+    <string name="button_bt_4" translatable="false">4</string>
+    <string name="button_bt_5" translatable="false">5</string>
+    <string name="button_bt_6" translatable="false">6</string>
+    <string name="button_subtracting" translatable="false">-</string>
+    <string name="button_addition" translatable="false">+</string>
+    <string name="button_bt_3" translatable="false">3</string>
+    <string name="button_bt_2" translatable="false">2</string>
+    <string name="button_bt_1" translatable="false">1</string>
+    <string name="button_result" translatable="false">=</string>
+    <string name="button_separator" translatable="false">.</string>
+    <string name="button_bt_0" translatable="false">0</string>
 </resources>
