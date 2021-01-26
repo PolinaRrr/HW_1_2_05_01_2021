@@ -15,10 +15,14 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
-@SuppressLint("WrongConstant")
+
 public class MainActivity extends AppCompatActivity {
     private CalculatorLogic calculator;
     private TextView text;
+
+    static {
+        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_FOLLOW_SYSTEM);
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
