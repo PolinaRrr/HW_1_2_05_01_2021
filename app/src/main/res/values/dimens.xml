@@ -6,4 +6,8 @@
     <dimen name="AcConstraintLayoutTextViewHeight">182dp</dimen>
     <dimen name="textView_textSize_print_result">60sp</dimen>
     <dimen name="button_textSize">12sp</dimen>
+    <dimen name="land_textView_print_result_width">623dp</dimen>
+    <dimen name="land_textView_print_result_height">83dp</dimen>
+    <dimen name="land_AcConstraintLayoutButtonWidth">145dp</dimen>
+    <dimen name="land_AcConstraintLayoutButtonHeight">40dp</dimen>
 </resources>
